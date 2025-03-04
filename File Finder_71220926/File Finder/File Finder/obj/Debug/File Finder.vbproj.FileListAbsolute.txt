@@ -1,0 +1,25 @@
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\bin\Debug\File Finder.exe.config
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\bin\Debug\File Finder.exe
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\bin\Debug\File Finder.pdb
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\bin\Debug\File Finder.xml
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File Finder.vbproj.AssemblyReference.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File Finder.vbproj.SuggestedBindingRedirects.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File_Finder.Form1.resources
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File_Finder.Resources.resources
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File Finder.vbproj.GenerateResource.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File Finder.vbproj.CoreCompileInputs.cache
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File Finder.exe
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File Finder.xml
+D:\Semester 6\Pemrograman Dekstop\Mingguan\Pertemuan5\File Finder\File Finder\obj\Debug\File Finder.pdb
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\bin\Debug\File Finder.exe.config
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\bin\Debug\File Finder.exe
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\bin\Debug\File Finder.pdb
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\bin\Debug\File Finder.xml
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File Finder.vbproj.AssemblyReference.cache
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File_Finder.Form1.resources
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File_Finder.Resources.resources
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File Finder.vbproj.GenerateResource.cache
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File Finder.vbproj.CoreCompileInputs.cache
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File Finder.exe
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File Finder.xml
+D:\Aplikasi\File Finder_71220926\File Finder\File Finder\obj\Debug\File Finder.pdb
